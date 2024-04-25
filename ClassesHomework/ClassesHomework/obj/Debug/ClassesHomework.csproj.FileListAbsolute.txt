@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Classes\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.exe.config
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Classes\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.exe
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Classes\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.pdb
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Classes\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Classes\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Classes\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.exe
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Classes\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.pdb
