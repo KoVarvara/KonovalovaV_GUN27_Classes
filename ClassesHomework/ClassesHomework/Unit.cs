@@ -16,19 +16,22 @@ namespace ClassesHomework
         private float damage;
         public float Damage
         {
-            get { return damage; }
-
-            private set
+            get
             {
+                damage = СurrentWeapon.Damage + 5f;
                 if (СurrentWeapon == null)
                 {
-                    damage = 5f;
+                    return 5f;
+                }
+                else if (damage > 30f)
+                {
+                    return 30f;
                 }
                 else
                 {
-                    damage = СurrentWeapon.Damage + 5f;
+                    return damage;                   
                 }
-            }
+            }        
         }
 
         private float armor;
@@ -68,9 +71,9 @@ namespace ClassesHomework
             return Health * (1f + Armor);
         }
 
-        public bool SetDamage(Weapon weapon)
+        public bool SetDamage(float value)
         {
-            Health = Health - weapon.GetDamage() * Armor;
+            Health -= value * Armor;
             if (Health <= 0f)
             {
                 return true;
@@ -103,7 +106,6 @@ namespace ClassesHomework
         {
             CurrentBoots = boots;
             Console.WriteLine(boots.Name + " are equipped");
-
         }
     }
 }

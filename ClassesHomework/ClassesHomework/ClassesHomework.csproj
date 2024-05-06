@@ -44,8 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Armor.cs" />
+    <Compile Include="Combat.cs" />
+    <Compile Include="Interval.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rate.cs" />
     <Compile Include="Unit.cs" />
     <Compile Include="Weapon.cs" />
   </ItemGroup>
